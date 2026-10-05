@@ -51,29 +51,23 @@ Building at the intersection of **aviation, technology and digital innovation.**
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🔐 Cybersecurity Portfolio
+<div align="center">
 
-Network mapping, service enumeration and practical cybersecurity labs.
+<a href="https://github.com/Mell-B2/cybersecurity-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mell-B2&repo=cybersecurity-portfolio&theme=github_dark&hide_border=true" />
+</a>
 
-[View Repository →](https://github.com/Mell-B2/cybersecurity-portfolio)
+<a href="https://github.com/Mell-B2/agenda-cultural">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mell-B2&repo=agenda-cultural&theme=github_dark&hide_border=true" />
+</a>
 
-<br>
+<a href="https://github.com/Mell-B2/manta-atelier-dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mell-B2&repo=manta-atelier-dashboard&theme=github_dark&hide_border=true" />
+</a>
 
-### 📅 Agenda Cultural
-
-Web project developed during my **Reskilling Digital** training.
-
-[View Repository →](https://github.com/Mell-B2/agenda-cultural)
-
-<br>
-
-### 📊 Manta Atelier Dashboard
-
-Digital dashboard focused on web development and digital analytics.
-
-[View Repository →](https://github.com/Mell-B2/manta-atelier-dashboard)
+</div>
 
 <br>
 
