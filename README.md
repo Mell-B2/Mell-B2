@@ -1,58 +1,78 @@
 <div align="center">
 
-# Hi 👋, I'm Melissa Baptista
+# Hi 👋, I'm Melissa
 
-### ✈️ Aviation • 💻 Technology • 🔐 Cybersecurity
+### ✈️ Aviation × 💻 Technology × 🔐 Cybersecurity
 
-*Building my path between aviation, digital innovation and technology.*
+<code>LEARN • CREATE • INNOVATE</code>
+
+<br><br>
+
+Building at the intersection of **aviation, technology and digital innovation.**
 
 </div>
 
+<br>
+
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-🎓 Student of **Civil Aviation Management and Planning**
+🎓 I'm studying **Civil Aviation Management and Planning**
 
-💻 Exploring **Technology, Digital Transformation & Cybersecurity**
+💻 Exploring **Technology, Cybersecurity & Digital Transformation**
 
-📊 Developing skills in **Web Development, Growth Analytics and Digital Marketing**
+📊 Developing skills in **Web Development, Growth Analytics & Digital Marketing**
 
-✈️ Passionate about **Aviation and Sustainable Aviation**
+✈️ Interested in **Aviation, Innovation & Sustainable Aviation**
 
 🌍 Based in **Cabo Verde**
 
----
-
-## 🚀 What I'm Currently Working On
-
-- 🔐 Building my **Cybersecurity Portfolio**
-- 🌐 Developing web projects with **HTML & CSS**
-- 📊 Exploring **Growth Analytics & GA4**
-- ✈️ Connecting technology with the aviation industry
+<br>
 
 ---
 
-## 🛠️ Tech & Digital Skills
+## 💻 Tech & Digital Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
 
-</p>
+<br><br>
+
+`Web Development` • `Git & GitHub` • `Cybersecurity` • `GA4` • `Growth Analytics` • `Digital Marketing`
+
+</div>
+
+<br>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Projects
 
 ### 🔐 Cybersecurity Portfolio
-Network mapping, service enumeration and cybersecurity laboratory projects.
+
+Network mapping, service enumeration and practical cybersecurity labs.
+
+[View Repository →](https://github.com/Mell-B2/cybersecurity-portfolio)
+
+<br>
 
 ### 📅 Agenda Cultural
-Web project developed using HTML and CSS.
+
+Web project developed during my **Reskilling Digital** training.
+
+[View Repository →](https://github.com/Mell-B2/agenda-cultural)
+
+<br>
 
 ### 📊 Manta Atelier Dashboard
-Digital dashboard developed as part of my learning journey.
+
+Digital dashboard focused on web development and digital analytics.
+
+[View Repository →](https://github.com/Mell-B2/manta-atelier-dashboard)
+
+<br>
 
 ---
 
@@ -60,18 +80,38 @@ Digital dashboard developed as part of my learning journey.
 
 <div align="center">
 
-![Melissa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mell-B2&show_icons=true&theme=transparent)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mell-B2&show_icons=true&hide_border=true&theme=github_dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mell-B2&layout=compact&theme=transparent)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mell-B2&layout=compact&hide_border=true&theme=github_dark" />
 
 </div>
 
+<br>
+
 ---
 
-## 🤝 Connect With Me
+## 📈 Activity
 
 <div align="center">
 
-**Let's connect, collaborate and build something meaningful.**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mell-B2&theme=github-compact&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+### Let's connect and build something meaningful.
+
+📧 **mbaptista@uta.cv**
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mell-B2&style=flat-square)
 
 </div>
