@@ -83,21 +83,11 @@ Digital dashboard focused on web development and digital analytics.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mell-B2&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mell-B2&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mell-B2&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
 
 <br>
 
----
-
-## 📈 Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mell-B2&theme=github-compact&hide_border=true" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mell-B2&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
@@ -109,12 +99,23 @@ Digital dashboard focused on web development and digital analytics.
 
 <div align="center">
 
-### Let's connect and build something meaningful.
+<a href="mailto:mbaptista@uta.cv">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-📧 **mbaptista@uta.cv**
+<a href="https://github.com/Mell-B2">
+  <img src="https://img.shields.io/badge/GitHub-Mell--B2-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br>
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mell-B2&style=flat-square)
+<i>Let's connect, collaborate and build something meaningful.</i>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Mell-B2&style=flat-square&label=PROFILE+VIEWS" />
 
 </div>
+
+</div>
+
