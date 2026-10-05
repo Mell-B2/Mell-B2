@@ -40,33 +40,21 @@ Building at the intersection of **aviation, technology and digital innovation.**
 <div align="center">
 
 ### Development & Tools
-
 <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode&theme=dark" />
 
-<br><br>
-
 ### Digital & Analytics
-
-<img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Growth_Analytics-181717?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Digital_Marketing-181717?style=for-the-badge" />
-
-<br><br>
+<img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Growth_Analytics-181717?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Digital_Marketing-181717?style=flat-square" />
 
 ### Cybersecurity
-
-<img src="https://img.shields.io/badge/Nmap-181717?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Network_Security-181717?style=for-the-badge&logo=hackthebox&logoColor=white" />
-
-<br><br>
+<img src="https://img.shields.io/badge/Nmap-181717?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Network_Security-181717?style=flat-square&logo=hackthebox&logoColor=white" />
 
 ### Creative
-
-<img src="https://img.shields.io/badge/Canva-181717?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-181717?style=flat-square&logo=canva&logoColor=white" />
 
 </div>
-
-<br>
 
 ---
 
